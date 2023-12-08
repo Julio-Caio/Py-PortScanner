@@ -72,10 +72,6 @@ This tool is meant for educational and ethical use only. Users are responsible f
 
 We welcome contributions! Feel free to open issues, submit pull requests, or provide suggestions.
 
-## License
-
-Py-PortScanner is licensed under the [MIT License](LICENSE).
-
 ---
 
 Feel free to customize this template according to your project's specific details and needs. Add or remove sections as necessary.
